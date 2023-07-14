@@ -5,5 +5,5 @@
  - In `cmd` directory `cargo build`
 
 ### Usage
- - `main.exe --message "your message here"` 
- - `main.exe -i"`
+ - `rustgpt.exe --message "your message here"` 
+ - `rustgpt.exe -i"`
